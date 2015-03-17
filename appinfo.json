@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "auruspex",
+    "longName": "Pacifico",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[a-zA-Z#]",
+                "file": "fonts/Pacifico.ttf",
+                "name": "FONT_PACIFICO_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Pacifico.ttf",
+                "name": "FONT_PACIFICO_30",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9.:]",
+                "file": "fonts/Pacifico.ttf",
+                "name": "FONT_PACIFICO_42",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Pacifico",
+    "uuid": "044e23d1-73a4-43fb-a38d-c25806bae529",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
